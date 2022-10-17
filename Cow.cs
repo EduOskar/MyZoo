@@ -7,7 +7,7 @@
         {
             this.name = "Ina but Cow";
             this.age = 22;
-            this.breed = "Cow breed";
+            this.breed = "Cow";
             this.gender = "Female";
             this.colour = "White with brown spots";
             this.cowAttack = "Attack fiercly, but only with big words.. They do hurt";
